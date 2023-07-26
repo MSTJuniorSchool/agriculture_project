@@ -1,0 +1,24 @@
+body {
+	margin-left: 10%;
+	margin-right: 10%
+}
+
+ul li a{
+	background-color: red;
+	color: white;
+	text-decoration: none;
+}
+
+.thrips_content{
+	height: 500px;
+}
+
+.mastitis_content{
+	display: inline-block;
+}
+
+.mastitis_detail{
+	float: right;
+	margin-right: 15%;
+}
+
