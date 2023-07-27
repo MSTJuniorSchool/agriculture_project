@@ -12,6 +12,8 @@ ul li a{
 .thrips_content{
 	height: 500px;
 }
+sub_thrips_content { float:right;
+}
 
 .mastitis_content{
 	display: inline-block;
